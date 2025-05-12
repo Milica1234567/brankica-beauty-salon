@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/brankica-beauty-salon/static/css/main.aa521e85.css",
+    "main.js": "/brankica-beauty-salon/static/js/main.ca886493.js",
+    "static/js/453.69e748a6.chunk.js": "/brankica-beauty-salon/static/js/453.69e748a6.chunk.js",
+    "static/media/home2.jpg": "/brankica-beauty-salon/static/media/home2.1206d0a47a1876e76411.jpg",
+    "static/media/logo_brankica.png": "/brankica-beauty-salon/static/media/logo_brankica.749cb524e51a85ff6665.png",
+    "static/media/phone.png": "/brankica-beauty-salon/static/media/phone.1a60d9d068c7b5bb0ff4.png",
+    "index.html": "/brankica-beauty-salon/index.html",
+    "main.aa521e85.css.map": "/brankica-beauty-salon/static/css/main.aa521e85.css.map",
+    "main.ca886493.js.map": "/brankica-beauty-salon/static/js/main.ca886493.js.map",
+    "453.69e748a6.chunk.js.map": "/brankica-beauty-salon/static/js/453.69e748a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa521e85.css",
+    "static/js/main.ca886493.js"
+  ]
+}
