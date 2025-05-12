@@ -1,0 +1,35 @@
+.rotating-wheel {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.center-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+  z-index: 2;
+}
+
+.card {
+  position: absolute;
+  width: 200px;
+  height: 120px;
+  background: white;
+  padding: 12px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  z-index: 3;
+}
